@@ -1,0 +1,6 @@
+site_name: MkLorum2
+site_url: https://example.com/foo/
+nav:
+  - Home: index.md
+  - About: about.md
+  - 'Issue Tracker': 'https://example.com/'
