@@ -5,10 +5,10 @@ theme:
 nav:
   - Home: index.md
   - User Guide:
-      - 'g1': about.md
-      - 'License': license.md
+      -'g1': about.md
+      -'License': license.md
 plugins:
-  - search
+  - serach
 markdown_extensions:
-  - toc:
+  -toc:
      permalink: true
